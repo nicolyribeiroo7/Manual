@@ -7,14 +7,12 @@ Este repositório contém o Manual de Cores e Tipografia desenvolvido na platafo
 ### Cores Primárias
 As cores principais foram extraídas da logomarca do **Banco Itaú**, garantindo coerência com a identidade original da marca.
 
-- **Laranja Itaú**: `#FF6900`
+- **Laranja Itaú**: `#FF6200`
 - **Azul Itaú**: `#002776`
 
 ### Cores Complementares
 A partir das cores primárias, foram desenvolvidas **duas paletas complementares** para dar suporte à comunicação visual, respeitando a harmonia de cores e contraste necessário para acessibilidade.
 
-- **Paleta Secundária**: tons derivados do azul e laranja com saturação reduzida.
-- **Paleta Neutra**: tons de cinza e branco para fundos, textos e divisores.
 
 Todas as paletas foram organizadas no Figma com nomes padronizados e variações de tom (ex: `primary-100`, `primary-200`...).
 
@@ -25,7 +23,6 @@ A tipografia escolhida foi a **Poppins**, uma fonte moderna, limpa e versátil q
 ### Variações utilizadas:
 - `Poppins Light`
 - `Poppins Regular`
-- `Poppins Medium`
 - `Poppins SemiBold`
 - `Poppins Bold`
 
